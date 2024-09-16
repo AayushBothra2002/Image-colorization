@@ -1,6 +1,6 @@
-# This project was completed in June 2024 and has been uploaded to GitHub in September 2024 to showcase the work done during that period.
+#This project was completed in June 2024 and has been uploaded to GitHub in September 2024 to showcase the work done during that period.
 
-Image Colorization with U-Net and GAN 
+# Image Colorization with U-Net and GAN 
 This project implements image colorization using deep learning models, specifically leveraging a ResNet18-based UNet generator and a PatchGAN discriminator. 
 The goal is to take grayscale images and produce realistic colorized versions using a generative adversarial network (GAN). 
 The model is trained on a subset of the COCO dataset and uses a combination of adversarial loss and L1 loss to optimize the output, ensuring both color accuracy and realism.
